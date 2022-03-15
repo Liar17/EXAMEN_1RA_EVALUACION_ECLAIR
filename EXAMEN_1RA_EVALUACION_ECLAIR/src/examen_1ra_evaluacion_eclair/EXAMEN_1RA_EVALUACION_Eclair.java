@@ -14,7 +14,7 @@ public class EXAMEN_1RA_EVALUACION_Eclair {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //ImplementaciÃ³n
+        //Implementacion
 
         Datosintegrantes estudiante = new Datosintegrantes();
         estudiante.Equipo = "Ecleir";
